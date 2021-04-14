@@ -25,7 +25,7 @@ This is the task given to me for the role of Android Developer (Flutter Intern).
   cloud_firestore: ^0.12.9+5
  
 ### Features:
- Logout Button to signout from the user from the App.
+ Logout Button to signout the user from the App.
 
 ### Flutter Intern Task Description:
 1. You have to create a small app with OTP authentication(you have to take mobile no, OTP as input from the
