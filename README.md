@@ -18,6 +18,15 @@
 
 This is the task given to me for the role of Android Developer (Flutter Intern).
 
+# Dependencies used:
+  firebase_core: ^0.4.0+9
+  firebase_analytics: ^5.0.2
+  firebase_auth: ^0.14.0+5
+  cloud_firestore: ^0.12.9+5
+ 
+# Features:
+ Logout Button to signout from the user from the App.
+
 # Flutter Intern Task Description:
 1. You have to create a small app with OTP authentication(you have to take mobile no, OTP as input from the
 user and verify the OTP and then users log in). Use firebase for OTP Authentication.
