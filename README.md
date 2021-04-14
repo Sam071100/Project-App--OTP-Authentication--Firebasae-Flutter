@@ -1,4 +1,4 @@
-# Firebase_otp
+# Firebase_Flutter {OTP Authentication}
 
  Flutter + Firebase project.
 
